@@ -1,5 +1,5 @@
 ## BEM VINDO 👋
-## Eu sou a Bruna
+###### Eu sou a Bruna
 <!--
 **vianabrunn/vianabrunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
